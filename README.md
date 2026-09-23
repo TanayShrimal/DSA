@@ -1,2 +1,16 @@
-# DSA
-A collection of LeetCode questions to ace the coding interview! - Created using [AlgoSync](https://github.com/Aditya-0709/AlgoSync)
+# 📚 DSA
+
+My collection of Data Structures & Algorithms solutions from **LeetCode** and **GeeksforGeeks**.
+
+Automatically maintained using **AlgoSync**.
+
+---
+
+## Platforms
+
+- 🟡 LeetCode
+- 🟢 GeeksforGeeks
+
+---
+
+> ⚡ This repository is automatically updated whenever a new accepted solution is synchronized through AlgoSync.

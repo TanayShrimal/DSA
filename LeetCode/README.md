@@ -14,6 +14,7 @@
 - [Evaluate the Bracket Pairs of a String](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1807-evaluate-the-bracket-pairs-of-a-string)
 - [Longest Substring with At Least K Repeating Characters](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0395-longest-substring-with-at-least-k-repeating-characters)
 - [Two Sum](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0001-two-sum)
+- [Word Ladder](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0127-word-ladder)
 
 ## Math
 - [Smallest Index With Digit Sum Equal to Index](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3550-smallest-index-with-digit-sum-equal-to-index)
@@ -23,6 +24,7 @@
 - [Evaluate the Bracket Pairs of a String](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1807-evaluate-the-bracket-pairs-of-a-string)
 - [Longest Substring with At Least K Repeating Characters](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0395-longest-substring-with-at-least-k-repeating-characters)
 - [Maximum Nesting Depth of the Parentheses](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1614-maximum-nesting-depth-of-the-parentheses)
+- [Word Ladder](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0127-word-ladder)
 
 ## Backtracking
 - [Brace Expansion II](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1096-brace-expansion-ii)
@@ -33,6 +35,7 @@
 
 ## Breadth-First Search
 - [Brace Expansion II](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1096-brace-expansion-ii)
+- [Word Ladder](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0127-word-ladder)
 
 ## Sorting
 - [Brace Expansion II](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1096-brace-expansion-ii)
@@ -50,5 +53,8 @@
 
 ## Bracket Sequences
 - [Maximum Nesting Depth of the Parentheses](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1614-maximum-nesting-depth-of-the-parentheses)
+
+## Bidirectional Search
+- [Word Ladder](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0127-word-ladder)
 
 <!---LeetCode Topics End-->

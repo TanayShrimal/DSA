@@ -3,6 +3,7 @@
 <!---LeetCode Topics Start-->
 
 ## Array
+- [Check if There Is a Valid Parentheses String Path](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2267-check-if-there-is-a-valid-parentheses-string-path)
 - [Evaluate the Bracket Pairs of a String](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1807-evaluate-the-bracket-pairs-of-a-string)
 - [Maximum Average Subarray I](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0643-maximum-average-subarray-i)
 - [Relative Ranks](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0506-relative-ranks)
@@ -52,9 +53,16 @@
 - [Relative Ranks](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0506-relative-ranks)
 
 ## Bracket Sequences
+- [Check if There Is a Valid Parentheses String Path](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2267-check-if-there-is-a-valid-parentheses-string-path)
 - [Maximum Nesting Depth of the Parentheses](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1614-maximum-nesting-depth-of-the-parentheses)
 
 ## Bidirectional Search
 - [Word Ladder](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0127-word-ladder)
+
+## Dynamic Programming
+- [Check if There Is a Valid Parentheses String Path](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2267-check-if-there-is-a-valid-parentheses-string-path)
+
+## Matrix
+- [Check if There Is a Valid Parentheses String Path](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2267-check-if-there-is-a-valid-parentheses-string-path)
 
 <!---LeetCode Topics End-->

@@ -18,7 +18,7 @@ Automatically maintained using **AlgoSync**.
 <!---Platforms Start-->
 ## Platforms
 
-- LeetCode : 9 Problems
+- LeetCode : 10 Problems
 
-Total Solved : 9
+Total Solved : 10
 <!---Platforms End-->

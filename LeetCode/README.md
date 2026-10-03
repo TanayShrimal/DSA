@@ -25,6 +25,7 @@
 - [Evaluate the Bracket Pairs of a String](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1807-evaluate-the-bracket-pairs-of-a-string)
 - [Generate Parentheses](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0022-generate-parentheses)
 - [Longest Substring with At Least K Repeating Characters](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0395-longest-substring-with-at-least-k-repeating-characters)
+- [Longest Valid Parentheses](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0032-longest-valid-parentheses)
 - [Maximum Nesting Depth of the Parentheses](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1614-maximum-nesting-depth-of-the-parentheses)
 - [Maximum Nesting Depth of Two Valid Parentheses Strings](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1111-maximum-nesting-depth-of-two-valid-parentheses-strings)
 - [Valid Parentheses](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0020-valid-parentheses)
@@ -36,6 +37,7 @@
 
 ## Stack
 - [Brace Expansion II](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1096-brace-expansion-ii)
+- [Longest Valid Parentheses](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0032-longest-valid-parentheses)
 - [Maximum Nesting Depth of the Parentheses](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1614-maximum-nesting-depth-of-the-parentheses)
 - [Maximum Nesting Depth of Two Valid Parentheses Strings](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1111-maximum-nesting-depth-of-two-valid-parentheses-strings)
 - [Valid Parentheses](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0020-valid-parentheses)
@@ -61,6 +63,7 @@
 ## Bracket Sequences
 - [Check if There Is a Valid Parentheses String Path](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2267-check-if-there-is-a-valid-parentheses-string-path)
 - [Generate Parentheses](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0022-generate-parentheses)
+- [Longest Valid Parentheses](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0032-longest-valid-parentheses)
 - [Maximum Nesting Depth of the Parentheses](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1614-maximum-nesting-depth-of-the-parentheses)
 - [Maximum Nesting Depth of Two Valid Parentheses Strings](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1111-maximum-nesting-depth-of-two-valid-parentheses-strings)
 - [Valid Parentheses](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0020-valid-parentheses)
@@ -71,6 +74,7 @@
 ## Dynamic Programming
 - [Check if There Is a Valid Parentheses String Path](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2267-check-if-there-is-a-valid-parentheses-string-path)
 - [Generate Parentheses](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0022-generate-parentheses)
+- [Longest Valid Parentheses](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0032-longest-valid-parentheses)
 
 ## Matrix
 - [Check if There Is a Valid Parentheses String Path](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2267-check-if-there-is-a-valid-parentheses-string-path)

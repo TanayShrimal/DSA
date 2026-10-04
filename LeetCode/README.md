@@ -29,6 +29,7 @@
 - [Maximum Nesting Depth of the Parentheses](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1614-maximum-nesting-depth-of-the-parentheses)
 - [Maximum Nesting Depth of Two Valid Parentheses Strings](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1111-maximum-nesting-depth-of-two-valid-parentheses-strings)
 - [Valid Parentheses](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0020-valid-parentheses)
+- [Valid Parenthesis String](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0678-valid-parenthesis-string)
 - [Word Ladder](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0127-word-ladder)
 
 ## Backtracking
@@ -41,6 +42,7 @@
 - [Maximum Nesting Depth of the Parentheses](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1614-maximum-nesting-depth-of-the-parentheses)
 - [Maximum Nesting Depth of Two Valid Parentheses Strings](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1111-maximum-nesting-depth-of-two-valid-parentheses-strings)
 - [Valid Parentheses](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0020-valid-parentheses)
+- [Valid Parenthesis String](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0678-valid-parenthesis-string)
 
 ## Breadth-First Search
 - [Brace Expansion II](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1096-brace-expansion-ii)
@@ -67,6 +69,7 @@
 - [Maximum Nesting Depth of the Parentheses](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1614-maximum-nesting-depth-of-the-parentheses)
 - [Maximum Nesting Depth of Two Valid Parentheses Strings](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1111-maximum-nesting-depth-of-two-valid-parentheses-strings)
 - [Valid Parentheses](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0020-valid-parentheses)
+- [Valid Parenthesis String](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0678-valid-parenthesis-string)
 
 ## Bidirectional Search
 - [Word Ladder](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0127-word-ladder)
@@ -75,8 +78,12 @@
 - [Check if There Is a Valid Parentheses String Path](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2267-check-if-there-is-a-valid-parentheses-string-path)
 - [Generate Parentheses](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0022-generate-parentheses)
 - [Longest Valid Parentheses](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0032-longest-valid-parentheses)
+- [Valid Parenthesis String](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0678-valid-parenthesis-string)
 
 ## Matrix
 - [Check if There Is a Valid Parentheses String Path](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2267-check-if-there-is-a-valid-parentheses-string-path)
+
+## Greedy
+- [Valid Parenthesis String](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0678-valid-parenthesis-string)
 
 <!---LeetCode Topics End-->

@@ -28,6 +28,7 @@
 - [Longest Valid Parentheses](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0032-longest-valid-parentheses)
 - [Maximum Nesting Depth of the Parentheses](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1614-maximum-nesting-depth-of-the-parentheses)
 - [Maximum Nesting Depth of Two Valid Parentheses Strings](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1111-maximum-nesting-depth-of-two-valid-parentheses-strings)
+- [Score of Parentheses](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0856-score-of-parentheses)
 - [Valid Parentheses](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0020-valid-parentheses)
 - [Valid Parenthesis String](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0678-valid-parenthesis-string)
 - [Word Ladder](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0127-word-ladder)
@@ -41,6 +42,7 @@
 - [Longest Valid Parentheses](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0032-longest-valid-parentheses)
 - [Maximum Nesting Depth of the Parentheses](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1614-maximum-nesting-depth-of-the-parentheses)
 - [Maximum Nesting Depth of Two Valid Parentheses Strings](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1111-maximum-nesting-depth-of-two-valid-parentheses-strings)
+- [Score of Parentheses](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0856-score-of-parentheses)
 - [Valid Parentheses](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0020-valid-parentheses)
 - [Valid Parenthesis String](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0678-valid-parenthesis-string)
 
@@ -68,6 +70,7 @@
 - [Longest Valid Parentheses](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0032-longest-valid-parentheses)
 - [Maximum Nesting Depth of the Parentheses](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1614-maximum-nesting-depth-of-the-parentheses)
 - [Maximum Nesting Depth of Two Valid Parentheses Strings](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1111-maximum-nesting-depth-of-two-valid-parentheses-strings)
+- [Score of Parentheses](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0856-score-of-parentheses)
 - [Valid Parentheses](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0020-valid-parentheses)
 - [Valid Parenthesis String](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0678-valid-parenthesis-string)
 

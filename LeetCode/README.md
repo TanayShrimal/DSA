@@ -31,6 +31,7 @@
 - [Maximum Nesting Depth of the Parentheses](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1614-maximum-nesting-depth-of-the-parentheses)
 - [Maximum Nesting Depth of Two Valid Parentheses Strings](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1111-maximum-nesting-depth-of-two-valid-parentheses-strings)
 - [Minimum Add to Make Parentheses Valid](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0921-minimum-add-to-make-parentheses-valid)
+- [Remove Invalid Parentheses](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0301-remove-invalid-parentheses)
 - [Score of Parentheses](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0856-score-of-parentheses)
 - [Valid Parentheses](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0020-valid-parentheses)
 - [Valid Parenthesis String](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0678-valid-parenthesis-string)
@@ -39,6 +40,7 @@
 ## Backtracking
 - [Brace Expansion II](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1096-brace-expansion-ii)
 - [Generate Parentheses](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0022-generate-parentheses)
+- [Remove Invalid Parentheses](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0301-remove-invalid-parentheses)
 
 ## Stack
 - [Brace Expansion II](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1096-brace-expansion-ii)
@@ -52,6 +54,7 @@
 
 ## Breadth-First Search
 - [Brace Expansion II](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1096-brace-expansion-ii)
+- [Remove Invalid Parentheses](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0301-remove-invalid-parentheses)
 - [Word Ladder](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0127-word-ladder)
 
 ## Sorting

@@ -10,6 +10,7 @@
 - [Relative Ranks](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0506-relative-ranks)
 - [Sliding Window Median](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0480-sliding-window-median)
 - [Smallest Index With Digit Sum Equal to Index](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3550-smallest-index-with-digit-sum-equal-to-index)
+- [Sum of Squares of Special Elements](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2778-sum-of-squares-of-special-elements)
 - [Two Sum](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0001-two-sum)
 
 ## Hash Table
@@ -113,5 +114,8 @@
 
 ## Binary Search
 - [Minimum Sum of Squared Difference](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2333-minimum-sum-of-squared-difference)
+
+## Enumeration
+- [Sum of Squares of Special Elements](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2778-sum-of-squares-of-special-elements)
 
 <!---LeetCode Topics End-->

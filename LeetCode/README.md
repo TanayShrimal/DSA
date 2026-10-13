@@ -6,6 +6,7 @@
 - [Apply Operations on Array to Maximize Sum of Squares](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2897-apply-operations-on-array-to-maximize-sum-of-squares)
 - [Check if There Is a Valid Parentheses String Path](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2267-check-if-there-is-a-valid-parentheses-string-path)
 - [Evaluate the Bracket Pairs of a String](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1807-evaluate-the-bracket-pairs-of-a-string)
+- [Maximum Alternating Sum of Squares](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3727-maximum-alternating-sum-of-squares)
 - [Maximum Average Subarray I](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0643-maximum-average-subarray-i)
 - [Minimum Sum of Squared Difference](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2333-minimum-sum-of-squared-difference)
 - [Relative Ranks](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0506-relative-ranks)
@@ -65,6 +66,7 @@
 
 ## Sorting
 - [Brace Expansion II](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1096-brace-expansion-ii)
+- [Maximum Alternating Sum of Squares](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3727-maximum-alternating-sum-of-squares)
 - [Minimum Sum of Squared Difference](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2333-minimum-sum-of-squared-difference)
 - [Relative Ranks](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0506-relative-ranks)
 
@@ -107,6 +109,7 @@
 
 ## Greedy
 - [Apply Operations on Array to Maximize Sum of Squares](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2897-apply-operations-on-array-to-maximize-sum-of-squares)
+- [Maximum Alternating Sum of Squares](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3727-maximum-alternating-sum-of-squares)
 - [Minimum Add to Make Parentheses Valid](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0921-minimum-add-to-make-parentheses-valid)
 - [Minimum Insertions to Balance a Parentheses String](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1541-minimum-insertions-to-balance-a-parentheses-string)
 - [Minimum Sum of Squared Difference](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2333-minimum-sum-of-squared-difference)

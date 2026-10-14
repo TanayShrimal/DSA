@@ -25,6 +25,7 @@
 - [Word Ladder](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0127-word-ladder)
 
 ## Math
+- [Maximize Sum of Squares of Digits](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3723-maximize-sum-of-squares-of-digits)
 - [Smallest Index With Digit Sum Equal to Index](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3550-smallest-index-with-digit-sum-equal-to-index)
 
 ## String
@@ -109,6 +110,7 @@
 
 ## Greedy
 - [Apply Operations on Array to Maximize Sum of Squares](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2897-apply-operations-on-array-to-maximize-sum-of-squares)
+- [Maximize Sum of Squares of Digits](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3723-maximize-sum-of-squares-of-digits)
 - [Maximum Alternating Sum of Squares](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3727-maximum-alternating-sum-of-squares)
 - [Minimum Add to Make Parentheses Valid](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0921-minimum-add-to-make-parentheses-valid)
 - [Minimum Insertions to Balance a Parentheses String](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1541-minimum-insertions-to-balance-a-parentheses-string)

@@ -13,6 +13,7 @@
 - [Sliding Window Median](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0480-sliding-window-median)
 - [Smallest Index With Digit Sum Equal to Index](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3550-smallest-index-with-digit-sum-equal-to-index)
 - [Subarrays Distinct Element Sum of Squares I](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2913-subarrays-distinct-element-sum-of-squares-i)
+- [Subarrays Distinct Element Sum of Squares II](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2916-subarrays-distinct-element-sum-of-squares-ii)
 - [Sum of Squares of Special Elements](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2778-sum-of-squares-of-special-elements)
 - [Two Sum](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0001-two-sum)
 
@@ -23,6 +24,7 @@
 - [Longest Substring with At Least K Repeating Characters](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0395-longest-substring-with-at-least-k-repeating-characters)
 - [Sliding Window Median](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0480-sliding-window-median)
 - [Subarrays Distinct Element Sum of Squares I](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2913-subarrays-distinct-element-sum-of-squares-i)
+- [Subarrays Distinct Element Sum of Squares II](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2916-subarrays-distinct-element-sum-of-squares-ii)
 - [Two Sum](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0001-two-sum)
 - [Word Ladder](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0127-word-ladder)
 
@@ -133,8 +135,10 @@
 
 ## Binary Indexed Tree
 - [Subarrays Distinct Element Sum of Squares I](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2913-subarrays-distinct-element-sum-of-squares-i)
+- [Subarrays Distinct Element Sum of Squares II](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2916-subarrays-distinct-element-sum-of-squares-ii)
 
 ## Segment Tree
 - [Subarrays Distinct Element Sum of Squares I](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2913-subarrays-distinct-element-sum-of-squares-i)
+- [Subarrays Distinct Element Sum of Squares II](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2916-subarrays-distinct-element-sum-of-squares-ii)
 
 <!---LeetCode Topics End-->

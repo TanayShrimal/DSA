@@ -45,6 +45,7 @@
 - [Maximum Nesting Depth of Two Valid Parentheses Strings](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1111-maximum-nesting-depth-of-two-valid-parentheses-strings)
 - [Minimum Add to Make Parentheses Valid](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0921-minimum-add-to-make-parentheses-valid)
 - [Minimum Insertions to Balance a Parentheses String](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1541-minimum-insertions-to-balance-a-parentheses-string)
+- [Minimum Operations to Sort a String](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3863-minimum-operations-to-sort-a-string)
 - [Remove Invalid Parentheses](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0301-remove-invalid-parentheses)
 - [Score of Parentheses](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0856-score-of-parentheses)
 - [Valid Parentheses](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0020-valid-parentheses)

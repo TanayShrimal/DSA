@@ -9,6 +9,7 @@
 - [Find Target Indices After Sorting Array](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2089-find-target-indices-after-sorting-array)
 - [Maximum Alternating Sum of Squares](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3727-maximum-alternating-sum-of-squares)
 - [Maximum Average Subarray I](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0643-maximum-average-subarray-i)
+- [Minimum Operations to Sort a Permutation](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3942-minimum-operations-to-sort-a-permutation)
 - [Minimum Sum of Squared Difference](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2333-minimum-sum-of-squared-difference)
 - [Minimum Swaps to Sort by Digit Sum](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3551-minimum-swaps-to-sort-by-digit-sum)
 - [Relative Ranks](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0506-relative-ranks)

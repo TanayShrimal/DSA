@@ -9,6 +9,7 @@
 - [Find Target Indices After Sorting Array](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2089-find-target-indices-after-sorting-array)
 - [Maximum Alternating Sum of Squares](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3727-maximum-alternating-sum-of-squares)
 - [Maximum Average Subarray I](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0643-maximum-average-subarray-i)
+- [Maximum K to Sort a Permutation](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3644-maximum-k-to-sort-a-permutation)
 - [Minimum Operations to Sort a Permutation](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3942-minimum-operations-to-sort-a-permutation)
 - [Minimum Sum of Squared Difference](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2333-minimum-sum-of-squared-difference)
 - [Minimum Swaps to Sort by Digit Sum](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3551-minimum-swaps-to-sort-by-digit-sum)
@@ -140,6 +141,7 @@
 
 ## Bit Manipulation
 - [Apply Operations on Array to Maximize Sum of Squares](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2897-apply-operations-on-array-to-maximize-sum-of-squares)
+- [Maximum K to Sort a Permutation](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3644-maximum-k-to-sort-a-permutation)
 
 ## Binary Indexed Tree
 - [Subarrays Distinct Element Sum of Squares I](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2913-subarrays-distinct-element-sum-of-squares-i)

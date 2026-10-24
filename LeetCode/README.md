@@ -34,11 +34,13 @@
 - [Word Ladder](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0127-word-ladder)
 
 ## Math
+- [Count Days Spent Together](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2409-count-days-spent-together)
 - [Maximize Sum of Squares of Digits](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3723-maximize-sum-of-squares-of-digits)
 - [Smallest Index With Digit Sum Equal to Index](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3550-smallest-index-with-digit-sum-equal-to-index)
 
 ## String
 - [Brace Expansion II](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1096-brace-expansion-ii)
+- [Count Days Spent Together](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2409-count-days-spent-together)
 - [Evaluate the Bracket Pairs of a String](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1807-evaluate-the-bracket-pairs-of-a-string)
 - [Generate Parentheses](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0022-generate-parentheses)
 - [Longest Substring with At Least K Repeating Characters](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0395-longest-substring-with-at-least-k-repeating-characters)

@@ -13,6 +13,7 @@
 - [Minimum Operations to Sort a Permutation](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3942-minimum-operations-to-sort-a-permutation)
 - [Minimum Sum of Squared Difference](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2333-minimum-sum-of-squared-difference)
 - [Minimum Swaps to Sort by Digit Sum](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3551-minimum-swaps-to-sort-by-digit-sum)
+- [Number of Closed Islands](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1254-number-of-closed-islands)
 - [Relative Ranks](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0506-relative-ranks)
 - [Sliding Window Median](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0480-sliding-window-median)
 - [Smallest Index With Digit Sum Equal to Index](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3550-smallest-index-with-digit-sum-equal-to-index)
@@ -74,6 +75,7 @@
 
 ## Breadth-First Search
 - [Brace Expansion II](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1096-brace-expansion-ii)
+- [Number of Closed Islands](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1254-number-of-closed-islands)
 - [Remove Invalid Parentheses](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0301-remove-invalid-parentheses)
 - [Word Ladder](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0127-word-ladder)
 
@@ -121,6 +123,7 @@
 
 ## Matrix
 - [Check if There Is a Valid Parentheses String Path](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2267-check-if-there-is-a-valid-parentheses-string-path)
+- [Number of Closed Islands](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1254-number-of-closed-islands)
 
 ## Greedy
 - [Apply Operations on Array to Maximize Sum of Squares](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2897-apply-operations-on-array-to-maximize-sum-of-squares)
@@ -152,5 +155,11 @@
 ## Segment Tree
 - [Subarrays Distinct Element Sum of Squares I](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2913-subarrays-distinct-element-sum-of-squares-i)
 - [Subarrays Distinct Element Sum of Squares II](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2916-subarrays-distinct-element-sum-of-squares-ii)
+
+## Depth-First Search
+- [Number of Closed Islands](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1254-number-of-closed-islands)
+
+## Union-Find
+- [Number of Closed Islands](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1254-number-of-closed-islands)
 
 <!---LeetCode Topics End-->

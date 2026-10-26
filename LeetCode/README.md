@@ -5,6 +5,7 @@
 ## Array
 - [Apply Operations on Array to Maximize Sum of Squares](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2897-apply-operations-on-array-to-maximize-sum-of-squares)
 - [Check if There Is a Valid Parentheses String Path](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2267-check-if-there-is-a-valid-parentheses-string-path)
+- [Count Islands With Total Value Divisible by K](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3619-count-islands-with-total-value-divisible-by-k)
 - [Evaluate the Bracket Pairs of a String](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1807-evaluate-the-bracket-pairs-of-a-string)
 - [Find Target Indices After Sorting Array](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2089-find-target-indices-after-sorting-array)
 - [Maximum Alternating Sum of Squares](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3727-maximum-alternating-sum-of-squares)
@@ -75,6 +76,7 @@
 
 ## Breadth-First Search
 - [Brace Expansion II](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1096-brace-expansion-ii)
+- [Count Islands With Total Value Divisible by K](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3619-count-islands-with-total-value-divisible-by-k)
 - [Number of Closed Islands](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1254-number-of-closed-islands)
 - [Remove Invalid Parentheses](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0301-remove-invalid-parentheses)
 - [Word Ladder](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0127-word-ladder)
@@ -123,6 +125,7 @@
 
 ## Matrix
 - [Check if There Is a Valid Parentheses String Path](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2267-check-if-there-is-a-valid-parentheses-string-path)
+- [Count Islands With Total Value Divisible by K](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3619-count-islands-with-total-value-divisible-by-k)
 - [Number of Closed Islands](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1254-number-of-closed-islands)
 
 ## Greedy
@@ -157,9 +160,11 @@
 - [Subarrays Distinct Element Sum of Squares II](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2916-subarrays-distinct-element-sum-of-squares-ii)
 
 ## Depth-First Search
+- [Count Islands With Total Value Divisible by K](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3619-count-islands-with-total-value-divisible-by-k)
 - [Number of Closed Islands](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1254-number-of-closed-islands)
 
 ## Union-Find
+- [Count Islands With Total Value Divisible by K](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3619-count-islands-with-total-value-divisible-by-k)
 - [Number of Closed Islands](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1254-number-of-closed-islands)
 
 <!---LeetCode Topics End-->

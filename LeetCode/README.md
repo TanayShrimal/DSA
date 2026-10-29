@@ -14,6 +14,7 @@
 - [Minimum Operations to Sort a Permutation](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3942-minimum-operations-to-sort-a-permutation)
 - [Minimum Sum of Squared Difference](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2333-minimum-sum-of-squared-difference)
 - [Minimum Swaps to Sort by Digit Sum](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3551-minimum-swaps-to-sort-by-digit-sum)
+- [Minimum XOR Path in a Grid](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3882-minimum-xor-path-in-a-grid)
 - [Number of Closed Islands](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1254-number-of-closed-islands)
 - [Palindromic Path Queries in a Tree](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3841-palindromic-path-queries-in-a-tree)
 - [Relative Ranks](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0506-relative-ranks)
@@ -124,11 +125,13 @@
 - [Check if There Is a Valid Parentheses String Path](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2267-check-if-there-is-a-valid-parentheses-string-path)
 - [Generate Parentheses](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0022-generate-parentheses)
 - [Longest Valid Parentheses](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0032-longest-valid-parentheses)
+- [Minimum XOR Path in a Grid](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3882-minimum-xor-path-in-a-grid)
 - [Valid Parenthesis String](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0678-valid-parenthesis-string)
 
 ## Matrix
 - [Check if There Is a Valid Parentheses String Path](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2267-check-if-there-is-a-valid-parentheses-string-path)
 - [Count Islands With Total Value Divisible by K](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3619-count-islands-with-total-value-divisible-by-k)
+- [Minimum XOR Path in a Grid](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3882-minimum-xor-path-in-a-grid)
 - [Number of Closed Islands](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1254-number-of-closed-islands)
 
 ## Greedy
@@ -153,6 +156,7 @@
 ## Bit Manipulation
 - [Apply Operations on Array to Maximize Sum of Squares](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2897-apply-operations-on-array-to-maximize-sum-of-squares)
 - [Maximum K to Sort a Permutation](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3644-maximum-k-to-sort-a-permutation)
+- [Minimum XOR Path in a Grid](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3882-minimum-xor-path-in-a-grid)
 - [Palindromic Path Queries in a Tree](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3841-palindromic-path-queries-in-a-tree)
 
 ## Binary Indexed Tree

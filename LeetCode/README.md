@@ -15,6 +15,7 @@
 - [Minimum Sum of Squared Difference](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2333-minimum-sum-of-squared-difference)
 - [Minimum Swaps to Sort by Digit Sum](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3551-minimum-swaps-to-sort-by-digit-sum)
 - [Number of Closed Islands](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1254-number-of-closed-islands)
+- [Palindromic Path Queries in a Tree](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3841-palindromic-path-queries-in-a-tree)
 - [Relative Ranks](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0506-relative-ranks)
 - [Sliding Window Median](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0480-sliding-window-median)
 - [Smallest Index With Digit Sum Equal to Index](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3550-smallest-index-with-digit-sum-equal-to-index)
@@ -52,6 +53,7 @@
 - [Minimum Add to Make Parentheses Valid](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0921-minimum-add-to-make-parentheses-valid)
 - [Minimum Insertions to Balance a Parentheses String](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1541-minimum-insertions-to-balance-a-parentheses-string)
 - [Minimum Operations to Sort a String](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3863-minimum-operations-to-sort-a-string)
+- [Palindromic Path Queries in a Tree](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3841-palindromic-path-queries-in-a-tree)
 - [Remove Invalid Parentheses](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0301-remove-invalid-parentheses)
 - [Score of Parentheses](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0856-score-of-parentheses)
 - [Valid Parentheses](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0020-valid-parentheses)
@@ -96,6 +98,7 @@
 
 ## Divide and Conquer
 - [Longest Substring with At Least K Repeating Characters](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0395-longest-substring-with-at-least-k-repeating-characters)
+- [Palindromic Path Queries in a Tree](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3841-palindromic-path-queries-in-a-tree)
 
 ## Heap (Priority Queue)
 - [Minimum Sum of Squared Difference](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2333-minimum-sum-of-squared-difference)
@@ -150,21 +153,28 @@
 ## Bit Manipulation
 - [Apply Operations on Array to Maximize Sum of Squares](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2897-apply-operations-on-array-to-maximize-sum-of-squares)
 - [Maximum K to Sort a Permutation](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3644-maximum-k-to-sort-a-permutation)
+- [Palindromic Path Queries in a Tree](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3841-palindromic-path-queries-in-a-tree)
 
 ## Binary Indexed Tree
+- [Palindromic Path Queries in a Tree](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3841-palindromic-path-queries-in-a-tree)
 - [Subarrays Distinct Element Sum of Squares I](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2913-subarrays-distinct-element-sum-of-squares-i)
 - [Subarrays Distinct Element Sum of Squares II](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2916-subarrays-distinct-element-sum-of-squares-ii)
 
 ## Segment Tree
+- [Palindromic Path Queries in a Tree](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3841-palindromic-path-queries-in-a-tree)
 - [Subarrays Distinct Element Sum of Squares I](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2913-subarrays-distinct-element-sum-of-squares-i)
 - [Subarrays Distinct Element Sum of Squares II](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2916-subarrays-distinct-element-sum-of-squares-ii)
 
 ## Depth-First Search
 - [Count Islands With Total Value Divisible by K](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3619-count-islands-with-total-value-divisible-by-k)
 - [Number of Closed Islands](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1254-number-of-closed-islands)
+- [Palindromic Path Queries in a Tree](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3841-palindromic-path-queries-in-a-tree)
 
 ## Union-Find
 - [Count Islands With Total Value Divisible by K](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3619-count-islands-with-total-value-divisible-by-k)
 - [Number of Closed Islands](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1254-number-of-closed-islands)
+
+## Tree
+- [Palindromic Path Queries in a Tree](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3841-palindromic-path-queries-in-a-tree)
 
 <!---LeetCode Topics End-->

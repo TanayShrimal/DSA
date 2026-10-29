@@ -177,4 +177,7 @@
 ## Tree
 - [Palindromic Path Queries in a Tree](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3841-palindromic-path-queries-in-a-tree)
 
+## General
+- [Create Grid With Exactly One Path](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3963-create-grid-with-exactly-one-path)
+
 <!---LeetCode Topics End-->

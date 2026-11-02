@@ -12,6 +12,7 @@
 - [Maximum Average Subarray I](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0643-maximum-average-subarray-i)
 - [Maximum K to Sort a Permutation](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3644-maximum-k-to-sort-a-permutation)
 - [Minimum Moves to Equal Array Elements](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0453-minimum-moves-to-equal-array-elements)
+- [Minimum Moves to Equal Array Elements II](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0462-minimum-moves-to-equal-array-elements-ii)
 - [Minimum Operations to Sort a Permutation](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3942-minimum-operations-to-sort-a-permutation)
 - [Minimum Sum of Squared Difference](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2333-minimum-sum-of-squared-difference)
 - [Minimum Swaps to Sort by Digit Sum](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3551-minimum-swaps-to-sort-by-digit-sum)
@@ -42,6 +43,7 @@
 - [Count Days Spent Together](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2409-count-days-spent-together)
 - [Maximize Sum of Squares of Digits](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3723-maximize-sum-of-squares-of-digits)
 - [Minimum Moves to Equal Array Elements](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0453-minimum-moves-to-equal-array-elements)
+- [Minimum Moves to Equal Array Elements II](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0462-minimum-moves-to-equal-array-elements-ii)
 - [Smallest Index With Digit Sum Equal to Index](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3550-smallest-index-with-digit-sum-equal-to-index)
 
 ## String
@@ -90,6 +92,7 @@
 - [Brace Expansion II](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/1096-brace-expansion-ii)
 - [Find Target Indices After Sorting Array](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2089-find-target-indices-after-sorting-array)
 - [Maximum Alternating Sum of Squares](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3727-maximum-alternating-sum-of-squares)
+- [Minimum Moves to Equal Array Elements II](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0462-minimum-moves-to-equal-array-elements-ii)
 - [Minimum Sum of Squared Difference](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/2333-minimum-sum-of-squared-difference)
 - [Minimum Swaps to Sort by Digit Sum](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/3551-minimum-swaps-to-sort-by-digit-sum)
 - [Relative Ranks](https://github.com/TanayShrimal/DSA/tree/master/LeetCode/0506-relative-ranks)
